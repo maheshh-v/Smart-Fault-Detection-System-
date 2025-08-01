@@ -160,9 +160,3 @@ This system is designed for the power and energy sector, specifically:
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For questions or collaboration opportunities, please reach out through GitHub issues or contact the repository owner.
