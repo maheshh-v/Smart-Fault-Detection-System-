@@ -1,0 +1,19 @@
+Smart Fault Detection System - Model Information
+==================================================
+
+Model Type: rule_based
+Accuracy: 0.8582
+Training Data: 5000 samples
+Features Used: voltage_kv, current_a, oil_temperature_c, vibration_mm_s, oil_level_percent
+
+Thresholds:
+  voltage_critical: 220
+  voltage_warning: 225
+  current_critical: 200
+  current_warning: 180
+  temp_critical: 85
+  temp_warning: 75
+  vibration_critical: 1.2
+  vibration_warning: 0.8
+  oil_level_critical: 85
+  oil_level_warning: 90
